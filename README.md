@@ -5,7 +5,7 @@ python3のインストール -> Djangoのインストール -> プロジェク�
 https://docs.djangoproject.com/ja/3.0/intro/tutorial01/
 
 ### Hello Worldアプリの作成
-Hello Worldアプリの作成は下記を参考。
+Hello Worldアプリの作成は下記を参考。  
 https://qiita.com/frosty/items/e545c6258672d88b7707
 
 ### 処理の流れ
