@@ -1,4 +1,6 @@
 PythonのwebフレームワークDjangoを使ってHello Worldを実行。
+下記を参考にAWSのEC2にデプロイ。
+https://qiita.com/tachibanayu24/items/b8d73cdfd4cbd42c5b1d
 
 ### 環境構築~Djangoプロジェクトの作成
 python3のインストール -> Djangoのインストール -> プロジェクトの作成まではDjango公式を参考。
